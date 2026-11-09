@@ -444,9 +444,129 @@
 
 > 举例:
 >
-> I am busy today
+> I am busy today. 
 >
-> I 
+> I study at the Third Primary School.
+
+## 七.定语
+
+### 1.定义
+
+修饰或限定名词的词语叫定语.
+
+定语只跟名词有关系, 哪里有名词, 哪里就有定语.
+
+不管在什么语言里, 名词都是需要定语的, 否则名词的范围就太宽泛了.
+
+ 注意:只有普通名词才可以带定语, 专有名词(如人名, 地名, 国家名)不带定语.
+
+举例:
+
+去买苹果.  Please buy apples.
+
+去买10个苹果.  Please buy ten apples.
+
+去买10个大一点的苹果. Please buy ten big apples.
+
+我的书 my book
+
+美丽的姑娘  a beautiful girl
+
+### 2.分类
+
+在英语中, 定语分为 前置定语 和 后置定语.
+
+- 前置定语
+
+  - 形容词性物主代词, 如my, your, her, his...     my book
+  - 形容词, big, small, happy    happy girl
+  - 名词所有格, Fang Shuhui's   father's     Fang Shuhui's pen
+  - 数词 three third      three books      The Third Primary School 
+  - 名词 English     English book
+  - 量词 two bottle of     two bottle of water
+  - 指示代词 this that these those      this book   that girl
+
+- 后置定语(非常重要! 要适应英语的这个习惯!)
+
+  - 介词短语  
+  - 名词所有格(of  +  名词)
+  - 动名词短语
+  - 动词不定式短语
+  - 定语从句
+
+  以介词短语作后置定语举例:
+
+  The book on the table is Fang Shuhui's.
+
+  Three children in the park are very happy.
+
+  The girl with a book is my daughter.
+
+## 八.同位语
+
+### 1.定义
+
+两个不同的词语都表示同一个人,或表示同一个物.
+
+同位语起到强调补充说明的作用.
+
+句子中先出现A,再出现B, 一般情况下B叫做A的同位语
+
+### 2.分类
+
+- 前面名词已经确定是谁 → 加逗号，只是起补充说明作用，是**非限制性同位语**，逗号不能省。
+
+My father, a good teacher, is learning English.
+
+- 前面名词范围宽泛、需要靠后面这个词锁定是哪一个 → 不加逗号，起限定作用,是**限制性同位语**
+
+The boy Jack is a good student.
+
+## 九.五个基本句型
+
+- 表动作
+
+### 1. 主语 + 谓语(不及物动词) + 状语
+
+![image-20261109142434695](assets/image-20261109142434695.png)
+
+### 2. 主语 + 谓语(及物动词) + 宾语 + 状语
+
+![image-20261109144012686](assets/image-20261109144012686.png)
+
+
+
+### 3. 主语 + 谓语(及物动词中少数双宾动词) + 间接宾语 + 直接宾语 + 状语
+
+![image-20261109144855747](assets/image-20261109144855747.png)
+
+### 4. 主语 + 谓语(及物动词中少数宾补动词) + 宾语 + 宾补 + 状语
+
+![image-20261109150836736](assets/image-20261109150836736.png)
+
+- 表状态
+
+### 5. 主语 + 系动词 + 表语 + 状语
+
+![image-20261109152125923](assets/image-20261109152125923.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
