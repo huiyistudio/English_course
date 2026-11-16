@@ -10,11 +10,11 @@
 
 > 主语就是一句话主要叙述的对象 或者 这句话主要讲的内容.
 
-- 我是中国人
+- <u>我</u>是中国人
 
-- 英语学起来不算费事
-- 张三喜欢踢足球
-- 学习英语是一件重要的事情
+- <u>英语</u>学起来不算费事
+- <u>张三</u>喜欢踢足球
+- <u>学习英语</u>是一件重要的事情
 
 ### 2.能够充当主语的词语
 
@@ -56,9 +56,9 @@
 
 - 人称代词
 
-  Fang Shuhui is a student. Fang Shuhui is girl. Fang Shuhui likes reading books.
+  Fang Shuhui is a student. Fang Shuhui is a girl. Fang Shuhui likes reading books.
 
-  Fang Shuhui is a student. She is girl. She likes reading books.
+  Fang Shuhui is a student. She is a girl. She likes reading books.
 
   人称代词分为主格 和 宾格:
 
@@ -213,7 +213,7 @@
 >
 > 构成一般将来时态
 >
-> will + play
+> will + play(简单谓语必须是动词原形)
 >
 > I will play badminton with Liu Xiru tomorrow.
 >
@@ -229,7 +229,7 @@
 >
 > 构成一般疑问句
 >
-> I like you.(肯定句,如何编程一般疑问句)
+> I like you.(肯定句,如何变成一般疑问句)
 >
 > Do you like me?
 >
@@ -384,7 +384,7 @@
 
 在英语里面, 有些动词加上宾语后, 意思还是不完整
 
-比如下面的懂动词:
+比如下面的动词:
 
 | make(使, 让) | let(让)   | have(让,使) | put(放)    |
 | ------------ | --------- | ----------- | ---------- |
@@ -429,7 +429,7 @@
 
 英文举例:
 
-- I am happy today.
+- I am happy today. 
 - I study at the Third Primary School.
 
 英文的状语一般放在句子的后面
@@ -447,6 +447,8 @@
 > I am busy today. 
 >
 > I study at the Third Primary School.
+>
+> He runs quickly.
 
 ## 七.定语
 
@@ -478,13 +480,22 @@
 
 - 前置定语
 
-  - 形容词性物主代词, 如my, your, her, his...     my book
-  - 形容词, big, small, happy    happy girl
-  - 名词所有格, Fang Shuhui's   father's     Fang Shuhui's pen
-  - 数词 three third      three books      The Third Primary School 
-  - 名词 English     English book
-  - 量词 two bottle of     two bottle of water
-  - 指示代词 this that these those      this book   that girl
+  - 限定词
+    - 形容词性物主代词, 如my, your, her, his...     my book
+    - 名词所有格, Fang Shuhui's   father's     Fang Shuhui's pen
+    - 数词 three third      three books      The Third Primary School 
+    - 指示代词 this that these those      this book   that girl
+    - 冠词 a/an/the    a book/an apple/the book
+    - <u>量词 two bottle of     two bottle of water</u>(之后再讲)
+  - 修饰语
+    - 名词 English     English book
+    - 形容词  big, small, happy    happy girl
+  - 限定词 + 修饰语
+    - my English book
+    - Fang Shuhui's English book
+    - three red pens
+    - this big house
+    - a smart girl
 
 - 后置定语(非常重要! 要适应英语的这个习惯!)
 
@@ -498,7 +509,7 @@
 
   The book on the table is Fang Shuhui's.
 
-  Three children in the park are very happy.
+  Three children in the park are very happy.   
 
   The girl with a book is my daughter.
 
@@ -548,7 +559,244 @@ The boy Jack is a good student.
 
 ### 5. 主语 + 系动词 + 表语 + 状语
 
-![image-20261109152125923](assets/image-20261109152125923.png)
+![image-20261115210434365](assets/image-20261115210434365.png)
+
+
+
+# 第二章 名词
+
+## 一.定义
+
+>  世间万物的名称
+
+## 二.分类
+
+名词分为 普通名词 和 专有名词
+
+### 1.普通名词
+
+#### 1.1 可数名词
+
+> 可数名词就是那些肉眼能分清楚的名词, 比如: 书, 房子, 电脑等.
+>
+> 每个可数名词都有两种格式: 单数格式	和	复数格式
+>
+> 复数格式都是由单数格式变化而来的. 大部分名词单数变复数都是有规则的变化, 少数情况存在不规则的变化.
+
+##### 1.1.1 可数名词单数变复数变化规则
+
+要遵循一个原则, 就看单词的末尾字母
+
+###### 1.1.1.1 以字母 s / x / sh / ch / z 结尾的单词
+
+规则: 可数名词单数->复数, 结尾+es
+
+举例:
+
+公共汽车 bus	->	buses
+
+盒子 box	->	boxes
+
+刷子 brush	->	brushes
+
+手表 watch	->	watches
+
+注意, 中小学期间以z结尾的名词就是下面两个
+
+嗡嗡声 buzz  ->  buzzes
+
+小测验 quiz   ->  quizzes  注意: 结尾+zes
+
+思考:
+
+glass	-> glasses
+
+fox	->foxes
+
+dish	->dishes
+
+match	->matches
+
+###### 1.1.1.2 辅音字母+y结尾的单词
+
+规则: 变y为i, 再加es
+
+元音字母: a / e / i / o / u	辅音字母: 其余的21个字母
+
+举例:
+
+baby	->	babies
+
+country	->	countries
+
+story	->	stories
+
+思考:
+
+dictionary	->	dictionaries
+
+boy	->	boys
+
+toy	->	toys
+
+###### 1.1.1.3 以f / fe 结尾的单词
+
+规则: 变f 或 fe  为 v, 再加es
+
+举例:
+
+wife	->	wives
+
+thief	->	thieves
+
+思考:
+
+knife	->	knives
+
+leaf	->	leaves
+
+wolf	->	wolves
+
+以下9个单词例外:
+
+roof -> roofs 房顶	      gulf -> gulfs 海湾	cliff -> cliffs 悬崖
+
+safe -> safes 保险箱	  belief->beliefs 信念	proof->proofs 证据
+
+reef->reefs 礁石		turf->turfs 草皮		cuff->cuffs 袖口
+
+###### 1.1.1.4 英雄喜欢西红柿和土豆
+
+西红柿 tomato  -> tomatoes
+
+土豆  potato -> potatoes
+
+英雄 hero  -> heroes
+
+只有以上三个以o结尾的可数名词单数, 变复数+es
+
+可以通过下面的句子来记忆:
+
+Heroes like tomatoes and potatoes.
+
+英雄 喜欢 西红柿和土豆
+
+###### 1.1.1.5 其余可数名词单数变复数的规则
+
+规则: 可数名词单数 变 复数 , 结尾 + s
+
+pen -> pens
+
+cup -> cups
+
+book -> books
+
+computer -> computers
+
+piano -> pianos
+
+思考:
+
+teacher ->teachers
+
+school  ->schools
+
+girl ->girls
+
+toy ->toys
+
+bamboo ->bamboos
+
+orange ->oranges
+
+##### 1.1.2 可数名词变复数后的发音
+
+可数名词变复数后,  在结尾会有如下变化:
+
+- 以s / x / sh / ch / z结尾的单词, +es. 单词结尾是es
+
+- 以辅音字母+y 结尾的单词, 变y为i, +es. 单词结尾是ies
+- 以f / fe 结尾的单词(除了那9个单词), 变f/fe 为 v, +es. 单词结尾是ves
+- hero, tomato, potato , 单词结尾是es
+- 其余 + s. 单词结尾是s
+
+以上这些结尾, 就发三种音 /s/	/z/	/ɪz/ , 如何对号入座呢?
+
+*要遵循一个原则, 单词原形最后的音(注意不是字母!), 决定结尾发哪个音
+
+###### 1.1.2.1 什么时候结尾读/ɪz/
+
+音标结尾是 /s/  /ʃ/  /tʃ/  /z/   /dʒ/, 结尾读/ɪz/
+
+举例: 
+
+bus /bʌs/   ->   buses /ˈbʌsɪz/
+
+box /bɒks/  -> boxes /ˈbɒksɪz/
+
+brush /brʌʃ/  -> brushes /ˈbrʌʃɪz/
+
+watch /wɒtʃ/  -> watches /ˈwɒtʃɪz/
+
+
+
+嗡嗡声 buzz /bʌz/ → buzzes /ˈbʌzɪz/
+
+小测验 quiz /kwɪz/ → quizzes /ˈkwɪzɪz/（重中之重，必考拼写坑：双写 z 再加 es）
+
+
+
+orange /ˈɒrɪndʒ/ -> oranges / ˈɒrɪndʒɪz /
+
+###### 1.1.2.2 什么时候结尾读/z/
+
+- 当单词音标结尾为元音音素(包括所有元音音素)
+
+boy /bɔɪ/ -> boys /bɔɪz/
+
+zoo /zuː/  -> zoos /zuːz/
+
+- 当单词音标结尾为这些浊辅音音素：/b//d//g//v//m//n//ŋ//l//r/ 
+
+出租车 cab /kæb/ ->  cabs /kæbz/
+
+床 bed /bed/ -> beds /bedz/
+
+包  bag /bæɡ/  ->  bags /bæɡz/
+
+小刀 knife /naɪf/  ->  knives /naɪvz/    注:原形尾 /f/，变复数才变成 /v/.  除了那9个特殊的单词,  所有结尾是f / fe的单词都遵循这个规则
+
+房间 room /ruːm/  ->  rooms /ruːmz/
+
+钢笔 pen /pen/  ->  pens /penz/
+
+东西 thing /θɪŋ/  ->  things /θɪŋz/
+
+球 ball /bɔːl/  ->  balls /bɔːlz/
+
+星星 star /stɑːr/  ->  stars /stɑːrz/
+
+- 这三个单词, 变复数时出现了浊化: /θ/ -> /ð/
+
+嘴 mouth /maʊθ/ → mouths /maʊðz/
+
+小路 path /pɑːθ/ → paths /pɑːðz/ 
+
+浴缸 bath /bɑːθ/ → baths /bɑːðz/ 
+
+###### 1.1.2.3 什么时候结尾读/s/
+
+当单词音标结尾为这五个**清辅音** /p/ /t/ /k/ /f/ /θ/时
+
+地图 map /mæp/ → maps /mæps/
+
+猫 cat /kæt/ → cats /kæts/
+
+桌子 desk/desk/ → desks /desks/
+
+房顶 roof /ruːf/ → roofs /ruːfs/
+
+月份 month /mʌnθ/ → months /mʌnθs/
 
 
 
