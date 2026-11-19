@@ -665,6 +665,8 @@ safe -> safes 保险箱	  belief->beliefs 信念	proof->proofs 证据
 
 reef->reefs 礁石		turf->turfs 草皮		cuff->cuffs 袖口
 
+giraffe->giraffes
+
 ###### 1.1.1.4 英雄喜欢西红柿和土豆
 
 西红柿 tomato  -> tomatoes
