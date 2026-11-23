@@ -800,6 +800,151 @@ zoo /zuː/  -> zoos /zuːz/
 
 月份 month /mʌnθ/ → months /mʌnθs/
 
+##### 1.1.2 可数名词单数变复数不规则变化
+
+![image-20261123155542141](assets/image-20261123155542141.png)
+
+![image-20261123155600389](assets/image-20261123155600389.png)
+
+![image-20261123155611018](assets/image-20261123155611018.png)
+
+> 可数名词变复数的不规则变化的情况是少数的, 不用死记硬背, 平时用这些词多造句, 自然就记住了.
+
+#### 1.2 不可数名词
+
+> 不可数名词没有复数的格式, 只有单数的格式.
+>
+> 不可数名词是单数概念, 所以它作主语时, 后面的谓语动词要变单数格式.
+>
+> 举例:
+>
+> ​	主系表: 
+>
+> ​		water  are  important. (X)
+>
+> ​		Water   is  important. (√)
+>
+> ​	主谓状:
+>
+> ​		榴莲: durian /ˈdʊəriən/
+>
+> ​		强调榴莲果肉、榴莲这种食物本身，这时Durian不可数
+>
+> ​		强调一个榴莲，二个榴莲，这时Durian可数
+>
+> ​		Durian sell well. （X）
+>
+> ​		Durian sells well.  (✓)
+
+### 2.专有名词
+
+> 专有名词是表示 地名, 人名, 团体,  机构,  组织等 专有的名称.
+>
+> 专有名词一般表示独一无二的事物, 第一个字母要大写.
+>
+> 分类:
+
+#### 2.1无定冠词的专有名词
+
+##### 2.1.1 人名
+
+李伟 Li Wei
+
+房兴 Fang Xing
+
+房书卉 Fang Shuhui
+
+房书屹 Fang Shuyi
+
+注意:如果人名前有尊称或头衔, 包括身份, 地位, 称号等, 这些名词的第一个字母也要大写,例如:
+
+Professor Zhang 张教授
+
+##### 2.1.2 称呼
+
+当 **直接称呼（呼语）**，或者 **单独用来指代 “我的爸爸 / 妈妈”、相当于人名来用，前面没有 my/your/the** → 首字母大写
+
+- Dad, come here. 爸爸，过来
+- Mum is cooking. 妈妈正在做饭
+- Thank you, Mother. 谢谢你，妈妈
+
+小写场景（前面有 my/your）
+
+My dad likes durian.
+
+##### 2.1.3 星期, 月份
+
+星期一  Monday
+
+三月  March
+
+Monday is fun.
+
+I like March.
+
+##### 2.1.4 节日
+
+一般为结尾为day 的节日
+
+- Children’s Day  儿童节
+- Teachers’ Day  教师节
+- National Day  国庆节
+- New Year’s Day  元旦
+
+We have fun on **Children’s Day**.
+
+##### 2.1.5 地点, 地名
+
+China 中国
+
+Asia 亚洲
+
+Beijing 北京	注意:BeiJing, Bei Jing(X)
+
+Guangzhou
+
+Harbin 哈尔滨	哈尔滨不是直接按 hā-ěr-bīn 拼成 Haerbin，这是特殊地名（源自满语）
+
+Suifenhe 绥芬河
+
+Mudanjiang 牡丹江
+
+Heihe 黑河
+
+I   live  in  Suifenhe.  我住在绥芬河. 结构:主语 + 谓语(不及物动词) +　地点状语
+
+#### 2.2 前面加定冠词the的专有名词(讲到冠词的时候, 再补充这个内容)
+
+> pass
+
+
+
+#### 2.3 专有名词总结
+
+可数、不可数这套划分，就是针对普通名词的。
+
+ 普通名词（有可数 / 不可数属性）： 普通名词是一类事物的统称，既能用来讲【这一整类】，如 rice, water；也能用来讲【这一类里面特定的某一个 / 某一些】，比如 the apple。
+
+
+
+绝大多数专有名词本身不讨论可数 / 不可数，它和普通名词的可数性体系，不是一套逻辑。 
+
+专有名词（原生无可数性）： 用来指代独一无二、特定的人 / 事物的名称，默认就只有那一个。
+
+ Beijing、Tom、Monday、May 作用：特指某一个特定个体的名字
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
