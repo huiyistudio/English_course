@@ -657,7 +657,7 @@ leaf	->	leaves
 
 wolf	->	wolves
 
-以下9个单词例外:
+以下10个单词例外:
 
 roof -> roofs 房顶	      gulf -> gulfs 海湾	cliff -> cliffs 悬崖
 
