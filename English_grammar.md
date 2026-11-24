@@ -933,6 +933,175 @@ I   live  in  Suifenhe.  我住在绥芬河. 结构:主语 + 谓语(不及物动
 
  Beijing、Tom、Monday、May 作用：特指某一个特定个体的名字
 
+## 三.作用
+
+### 1.作主语
+
+The book is new.
+
+These books are new.
+
+Water is important.
+
+Fang Shuhui is my daughter.
+
+Fang Shuhui likes reading books.
+
+Children's Day is fun.
+
+### 2.作表语
+
+My daughter is a student.
+
+This is an English book.
+
+My mother is an IT teacher.
+
+### 3.作宾语
+
+My daughter has many clothes.
+
+My brother has many toys.
+
+
+
+I gave my daughter a book yesterday.
+
+### 4.作宾补
+
+I call him Jack.
+
+My daughter calls  this rabbit Nuo Tuan.
+
+I will make him a good boy. 
+
+### 5.作定语中的修饰语
+
+什么样的名词可以做前置定语中的修饰语？
+
+**大多是可数名词单数形式**，用来表示【用途、类别、材料、地点、时间、性别】，注意这里起到和形容词一样的作用，即修饰语，是“锦上添花”。
+
+##### 5.1 **用途 **
+
+后面的东西用来干什么
+
+**pencil** box 铅笔盒	**train** station 火车站	**car** door 车门
+
+**coffee** cup 咖啡杯   	**shoe** shop 鞋店
+
+
+
+##### 5.2 **类别** 
+
+描述后面的名词是哪一类、什么内容
+
+**school** bus 校车        **cat** food 猫粮
+
+**English** book 英语书 	**music** teacher 音乐老师	**science** lab 科学实验室
+
+**apple** tree 苹果树
+
+
+
+##### 5.3 **材料**  
+
+后面的东西用什么做的
+
+**stone** bridge 石桥	**glass** bottle 玻璃瓶	**wood** desk 木桌
+
+
+
+##### 5.4 **地点**  
+
+在哪里用，或属于哪里
+
+**city** park 城市公园	**country** road 乡间小路 	 **school** gate 校门
+
+**city** library 市图书馆 	  **kitchen** table 厨房餐桌
+
+
+
+##### 5.5 **时间** 
+
+什么时候用、什么时候发生
+
+**summer** holiday 暑假	**morning** exercise 早操	**evening** news 晚间新闻	**summer** camp 夏令营
+
+
+
+##### 5.6 性别
+
+标明职业者性别
+
+**woman** teacher 女教师		**boy** student 男学生
+
+
+
+**注意：**
+
+1. 中心词是可数名词单数，整个短语前一般要有限定词：a / the / my / this 等。
+2. 不想加限定词，就把中心名词变复数。
+3. 前置的名词定语本身通常保持单数。
+4. 中心词是不可数名词，泛指时可以不加限定词；特指仍要加 the / my / this 等。
+
+**例子：**
+
+- a pencil box — I have a pencil box.（单数，加 a）
+- two pencil boxes — I have two pencil boxes.（复数，加 two）
+- my pencil boxes — My pencil boxes are expensive.（复数，加 my）
+- pencil boxes — Students need pencil boxes.（复数，零冠词泛指）
+- apple juice — I like apple juice.（不可数，泛指，零冠词）
+- this apple juice — I choose this apple juice.（不可数，特指，加 this）
+
+#### 6.作同位语
+
+同位语前后加逗号 → 非限定同位语，只是补充说明，删掉句子照样成立； 
+
+同位语不加逗号贴在一起 → 限定同位语，用来区分、锁定是哪一个，一般不能随便删。
+
+
+
+- 前面名词已经确定是谁 → 加逗号，只是起补充说明作用，是**非限制性同位语**，逗号不能省。
+
+My father, a good teacher, is learning English.    删掉同位语后依然合理->My father is learning English. 
+
+My hometown, Suifenhe, is a beautiful city. 删掉同位语后依然合理->My hometown is a beautiful city. 
+
+- 前面名词范围宽泛、需要靠后面这个词锁定是哪一个 → 不加逗号，起限定作用,是**限制性同位语**
+
+The boy Jack is a good student.  删掉同位语后语法成立,但表达模糊,不合理  The boy is a good student. 
+
+My friend Lucy is a teacher. 删掉同位语后语法成立,但表达模糊,不合理 My friend is a teacher.
+
+#### 7.作介词宾语
+
+in这个介词为例,  介词 + 名词组成介词短语
+in the room 在屋子里
+
+举例:
+
+He is in the room.   in the room这个介词短语作表语
+
+He jumps in the room every day. in the room作地点状语  整个句子:主语 + 谓语(不及物) + 地点状语 + 时间状语
+
+### 四.名词所有格
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
